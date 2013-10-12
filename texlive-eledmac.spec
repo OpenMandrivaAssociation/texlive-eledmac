@@ -1,11 +1,11 @@
-# revision 28006
+# revision 31632
 # category Package
 # catalog-ctan /macros/latex/contrib/eledmac
-# catalog-date 2012-10-05 20:42:29 +0200
+# catalog-date 2013-08-21 15:07:26 +0200
 # catalog-license lppl
-# catalog-version 1.1.2
+# catalog-version 1.5.2/1.4.2
 Name:		texlive-eledmac
-Version:	1.1.2
+Version:	1.5.21.4.2
 Release:	1
 Summary:	Typeset scholarly editions
 Group:		Publishing
