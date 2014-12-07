@@ -6,7 +6,7 @@
 # catalog-version 1.10.6
 Name:		texlive-eledmac
 Version:	1.10.6
-Release:	2
+Release:	3
 Summary:	Typeset scholarly editions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/eledmac
