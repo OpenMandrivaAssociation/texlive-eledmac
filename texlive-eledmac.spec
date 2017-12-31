@@ -1,12 +1,6 @@
-# revision 33944
-# category Package
-# catalog-ctan /macros/latex/contrib/eledmac
-# catalog-date 2014-05-01 16:49:36 +0200
-# catalog-license lppl
-# catalog-version 1.10.6
 Name:		texlive-eledmac
-Version:	1.10.6
-Release:	4
+Version:	1.24.12
+Release:	1
 Summary:	Typeset scholarly editions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/eledmac
@@ -37,17 +31,10 @@ related eledpar package.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/eledmac/eledmac.sty
-%{_texmfdistdir}/tex/latex/eledmac/eledpar.sty
-%doc %{_texmfdistdir}/doc/latex/eledmac/Makefile
-%doc %{_texmfdistdir}/doc/latex/eledmac/README
-%doc %{_texmfdistdir}/doc/latex/eledmac/eledmac.pdf
-%doc %{_texmfdistdir}/doc/latex/eledmac/eledpar.pdf
+%{_texmfdistdir}/tex/latex/eledmac
+%doc %{_texmfdistdir}/doc/latex/eledmac
 #- source
-%doc %{_texmfdistdir}/source/latex/eledmac/eledmac.dtx
-%doc %{_texmfdistdir}/source/latex/eledmac/eledmac.ins
-%doc %{_texmfdistdir}/source/latex/eledmac/eledpar.dtx
-%doc %{_texmfdistdir}/source/latex/eledmac/eledpar.ins
+%doc %{_texmfdistdir}/source/latex/eledmac
 
 #-----------------------------------------------------------------------
 %prep
