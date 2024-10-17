@@ -3,7 +3,7 @@ Version:	45418
 Release:	2
 Summary:	Typeset scholarly editions
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/eledmac
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/eledmac
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/eledmac.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/eledmac.doc.r%{version}.tar.xz
